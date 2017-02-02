@@ -13,3 +13,5 @@
 3. [Get the app's credentials](http://docs.shopify.com/api/authentication/oauth#get-the-client-redentials) and update conf.php
 4. Intall the app on a store by visiting http://path-to-new_prj/install.php?shop=example-shop.myshopify.com
 5. An OAuth token for the shop should now be stored in the session. Check out the other .php files and see how they work.
+
+*---- GLD ----*
